@@ -2,6 +2,7 @@
   "name": "vue-test-utils-ts-issues",
   "version": "0.1.0",
   "private": true,
+  "main": "src/main.ts",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -19,7 +20,7 @@
     "@vue/cli-plugin-typescript": "^3.0.0-beta.15",
     "@vue/cli-plugin-unit-jest": "^3.0.0-beta.15",
     "@vue/cli-service": "^3.0.0-beta.15",
-    "@vue/test-utils": "^1.0.0-beta.16",
+    "@vue/test-utils": "^1.0.0-beta.19",
     "babel-core": "7.0.0-bridge.0",
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1",
